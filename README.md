@@ -19,3 +19,10 @@
 [![](https://visitcount.itsvg.in/api?id=Anik000007&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anik000007/Anik000007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anik000007/Anik000007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Anik000007/Anik000007/output/github-snake.svg" />
+</picture>
+
+
