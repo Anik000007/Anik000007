@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a freelancer <br>👯 I’m looking to collaborate on as an editor <br>🌱 I’m currently learning frontend<br> 
+🔭 I’m currently working as a freelancer <br>👯 I’m looking to collaborate on as an editor,bug hunter , frontend dev<br>🌱 I’m currently learning frontend<br> 
 
 
 ## 🌐 Socials:
