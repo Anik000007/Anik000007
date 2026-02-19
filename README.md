@@ -13,7 +13,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anik000007&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Anik000007&theme=radical&no-frame=true&no-bg=false&margin-w=4) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anik000007&icon=0&color=12)](https://visitcount.itsvg.in)
